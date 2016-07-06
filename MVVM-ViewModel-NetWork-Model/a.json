@@ -1,0 +1,41 @@
+{
+ "status_code":"200",
+ "msg":"获取成功",
+ "data":{
+  "topic_infos":[
+            {"city":"南京",
+              "user_info":{
+                   "user_name":"RNG",
+                   "user_code":"1"
+              }
+            },
+
+            {"city":"北京",
+             "user_info":{
+                   "user_name":"OMG",
+                   "user_code":"2"
+             }
+            },
+            
+            {"city":"杭州",
+              "user_info":{
+                   "user_name":"LGD",
+                   "user_code":"3"
+              }
+            },
+
+            {"city":"泰州",
+             "user_info":{
+                   "user_name":"EDG",
+                   "user_code":"4"
+             }
+            },
+
+            {"city":"苏州",
+             "user_info":{
+                   "user_name":"IG",
+                   "user_code":"5"
+             }
+            }]}
+
+}
